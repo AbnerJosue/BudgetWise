@@ -1,4 +1,9 @@
-# Astro Starter Kit: Basics
+# Astro Budge Wise
+
+
+This is a project for learning Astro and its features.
+
+
 
 ```sh
 npm create astro@latest -- --template basics
